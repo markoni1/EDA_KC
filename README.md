@@ -1,11 +1,23 @@
-# Project1_Data_Analysis
-This project is centered around exploratory data 
-analysis (EDA) techniques and statistical analysis, 
-as well as modeling data using linear regression.
+# EDA_King_County
+This is my first and personal EDA; analysing the housing market in King County, WA
 
-In the jupyter notebook called 'Instructions' you will 
-find all information you need concerning the tasks 
-of the project.
+![alt text](https://content.lib.washington.edu/imls/kcsnapshots/images/wa-state-map.gif)
 
-The jupyter notebook 'Immersive_Data_Science_Project1_EDA'
-is created for you to **work on your own project**.
+## Synopsis
+
+With this project I am looking at the kaggle dataset to find and diagnose dependencies and correlations between data.
+
+## Code Example
+
+* Data cleaning and feature engineering
+* seaborn plots
+* Linear regression modelling
+* price prediction
+
+## Motivation
+
+Finding hidden trails and relations in thousands of observations
+
+## Installation
+
+Just clone the git-project.
